@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karlavf28
-- 👀 I work as a Squad Leader in a Software Development team. I also work in personal projects, and teaching Arduino and Raspberry PI as a hobby.
+- 👀 I work as a Project Manager in a Software Development team. I also work in personal projects, and teaching Arduino and Raspberry PI as a hobby.
 - 🌱 I’m currently learning Python , and how to use this language for data analysis and machine learning.
 - 💞️ I’m looking to collaborate on projects that capture my attention =)
 - 📫 How to reach me ... well find me at Linkedin: https://www.linkedin.com/in/karla-vanessa-fernandes-azambuja-a612a138/
